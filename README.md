@@ -7,7 +7,7 @@
 
 3.Count all lower case, upper case, digits, and special symbols from a given string. Given String: str1 = "P@#yn26at^&i5ve" Expected Output: Total counts of chars, digits,and symbols Chars = 8 Digits = 3 Symbol = 4 
 
-4. To find the longest and the smallest word in a string.
+4.To find the longest and the smallest word in a string.
 
 5.To check if a given string is a Palindrome. (A palindrome reads same from front and back. e.g. Madam, Bob, level.) 6. To generate a new string from a given one where all occurrences of its first char are replaced by '$', except the first char itself. Sample String: 'onion' Expected Result: 'oni$n. Sample String: ' people of philippines' Expected Result: ' peo$le of $hili$$ines'
 
